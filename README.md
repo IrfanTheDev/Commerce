@@ -37,7 +37,7 @@ Note the quality of the following clips may be lower due to conversion from vide
 
 
 ## Bug Reports and Improvements
-If you experience any bugs or see anything that can be improved or added, please feel free to [open an issue](https://github.com/IrfanTheDev/Auction/issues) <!-- update the link --> here or simply contact me through any of the methods below.
+If you experience any bugs or see anything that can be improved or added, please feel free to [open an issue](https://github.com/IrfanTheDev/Commerce/issues) here or simply contact me through any of the methods below.
  Thanks in advance!
 
 Email: theirfan2020@gmail.com  <br/>
